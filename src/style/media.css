@@ -14,8 +14,28 @@
         width: 100%;
     }
 
+    .serv{
+        align-items: center;
+        justify-content: center;
+    }
+
     .planos{
         width: 30.6%;
+    }
+    .serv .img-logo1{
+        width: 150px;
+    }
+    .servi-but{
+        width: 100%;
+    }
+    #serve-h2{
+        width: 33%;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .planos ul{
+        margin-left: 20px;
     }
 }
 @media (min-width:435px) and (max-width:600px){
