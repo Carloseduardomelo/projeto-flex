@@ -2,6 +2,7 @@
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 html {
@@ -46,6 +47,9 @@ button{
     align-items: center;
     justify-content: center;
     list-style: none;
+    color: antiquewhite;
+}
+.menu a{
     color: antiquewhite;
 }
 .menu>li {
